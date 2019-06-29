@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">twoflair</string>
+    <string name="john">john</string>
+    <string name="i_live_in_kilimani">I live in kilimani</string>
+    <string name="https_twoflair_com">https://twoflair.com</string>
+    <string name="john_doe">john doe</string>
+    <string name="cart_fragment">Cart</string>
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="sign_out_fragment">Sign Out</string>
+    <string name="auth_failed">Auth_failed</string>
+    <string name="auth_success">Auth_success</string>
+
+    <string name="selected_image">selected_image</string>
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+    <string name="field_username">username</string>
+    <string name="field_email">email</string>
+    <string name="field_display_name">display_name</string>
+    <string name="field_website">website</string>
+    <string name="field_description">description</string>
+    <string name="field_phone_number">phone_number</string>
+
+    <!-- strings -->
+    <string name="gallery">GALLERY</string>
+    <string name="photo">PHOTO</string>
+    <string name="string_open_camera">Open Camera</string>
+    <string name="profile_fragment">profile  </string>
+    <string name="string_next">Next</string>
+    <string name="confirm_password_dialog">confirmPasswordDialog</string>
+
+
+    <!-- Intent Extras -->
+    <string name="calling_activity">calling_activity</string>
+
+    <!-- activity names -->
+    <string name="profile_activity">Profile Activity</string>
+
+
+
+
+</resources>

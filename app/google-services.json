@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376873517705",
+    "firebase_url": "https://twoflair-cda45.firebaseio.com",
+    "project_id": "twoflair-cda45",
+    "storage_bucket": "twoflair-cda45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376873517705:android:ed73bf5e4f173df2",
+        "android_client_info": {
+          "package_name": "com.example.jakin.twoflair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376873517705-tscav4mtnkep6vvtjh34an5sle3pm9oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jakin.twoflair",
+            "certificate_hash": "edf22881a17ecd410136286e2469adf616e81ee6"
+          }
+        },
+        {
+          "client_id": "376873517705-vrl5hdqr4s4cudl3itlfgm7j018pn4u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA47oGikPu-g1YjABkXklscjdpGhYjj1Uk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376873517705-vrl5hdqr4s4cudl3itlfgm7j018pn4u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
